@@ -7,7 +7,7 @@ import time
 import copy
 
 # --- Configuration ---
-DATA_DIR = '/content/drive/MyDrive/flowers_data' # Path to your flower dataset root (e.g., must contain 'train' and 'valid' folders)
+DATA_DIR = '/content/drive/MyDrive/flowers_data' 
 MODEL_NAME = 'densenet201'
 NUM_CLASSES = 102
 BATCH_SIZE = 32
